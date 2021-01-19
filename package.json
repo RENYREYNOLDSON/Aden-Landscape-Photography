@@ -1,0 +1,12 @@
+{
+    "name": "adenlandscapes",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "Adam Reynoldson",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
